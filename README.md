@@ -36,6 +36,6 @@ If you are curious on how everythin runs, here is an useful flowchart:
 * **Luis M.**           - [GitHub](https://github.com/lemontyc)
 * **Reuben L.**
 
-Distriuted under the MIT License. See ``LICENSE`` for more information.
+Distributed under the MIT License. See ``LICENSE`` for more information.
 
 This project was developed for the **ELEC3607/9607-Embedded Systems** course at **The University of Sydney**.
